@@ -1,4 +1,4 @@
-#második feladat
+#f0002a feladat
 cica = 'kutya'
 kutya = 'egér'
 egér = 'cica'
