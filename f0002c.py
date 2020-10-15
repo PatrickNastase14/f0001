@@ -1,4 +1,4 @@
-#harmadik feladat
+#f0002c feladat
 print('Első sor\n')
 print('\nNos?')
 print('Azaz?\n')
