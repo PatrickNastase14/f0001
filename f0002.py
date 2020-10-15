@@ -1,4 +1,4 @@
-#első feladat
+#f0002 feladat
 refrén = 'Csillárom, haj!'
 print('Csizmadialegények')
 print('\nCsizmadialegények')
