@@ -1,4 +1,4 @@
-#harmadik feladat
+#f0002b feladat
 cica = 'kutya'
 print(cica)
 kutya = 'egér'
